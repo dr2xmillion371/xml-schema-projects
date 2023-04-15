@@ -2,7 +2,6 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
 <xs:element name="note">
-  /// start
   <xs:complexType>
     <xs:sequence>
       <xs:element name="info" type="xs:string"/>
@@ -13,5 +12,3 @@
 
 </xs:schema>
 
-
-/// end
